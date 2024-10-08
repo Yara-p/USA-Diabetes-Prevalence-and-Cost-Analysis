@@ -1,0 +1,56 @@
+﻿State,STUSPS,Diabetes Prevalence % ,Category,Obesity Prevalence %,Physical Inactivity Prevalence %,Cat,,,Lat,Lng
+Louisiana,LA,12.4,High Prevalence (11.9-14.5),40.1,30.8,>=30%,,,31.169546,-91.867805
+Alaska,AK,8,Low Prevalence (6.5-9.1),32.1,20.8,20%-<25%,,,61.370716,-152.404419
+Maryland,MD,9.8,Medium Prevalence (9.2-11.8),33.2,23.2,20%-<25%,,,39.063946,-76.802101
+Wisconsin,WI,7.9,Low Prevalence (6.5-9.1),37.7,21.9,20%-<25%,,,44.268543,-89.616508
+Florida,FL,No Data,No Data,31.6,27.3,25%-<30%,,,27.766279,-81.686783
+Georgia,GA,11.3,Medium Prevalence (9.2-11.8),37,27.4,25%-<30%,,,33.040619,-83.643074
+Tennessee,TN,12.2,High Prevalence (11.9-14.5),38.9,28.9,25%-<30%,,,35.747845,-86.692345
+Minnesota,MN,7.9,Low Prevalence (6.5-9.1),33.6,21,20%-<25%,,,45.694454,-93.900192
+Iowa,IA,8.6,Low Prevalence (6.5-9.1),37.4,24.5,20%-<25%,,,42.011539,-93.210526
+Missouri,MO,9.9,Medium Prevalence (9.2-11.8),36.4,27.8,25%-<30%,,,38.456085,-92.288368
+Michigan,MI,9.3,Medium Prevalence (9.2-11.8),34.5,24.3,20%-<25%,,,43.326618,-84.536095
+Idaho,ID,8.8,Low Prevalence (6.5-9.1),33.2,22.2,20%-<25%,,,44.240459,-114.478828
+California,CA,10.9,Medium Prevalence (9.2-11.8),28.1,21.2,20%-<25%,,,36.116203,-119.681564
+Connecticut,CT,9.3,Medium Prevalence (9.2-11.8),30.6,22.6,20%-<25%,,,41.597782,-72.755371
+Texas,TX,11.1,Medium Prevalence (9.2-11.8),35.5,27.5,25%-<30%,,,31.054487,-97.563461
+Virginia,VA,10.2,Medium Prevalence (9.2-11.8),35.2,23.4,20%-<25%,,,37.769337,-78.169968
+New York,NY,10.1,Medium Prevalence (9.2-11.8),30.1,25.9,25%-<30%,,,42.165726,-74.948051
+Illinois,IL,9.7,Medium Prevalence (9.2-11.8),33.4,24.9,20%-<25%,,,40.349457,-88.986137
+Montana,MT,7.6,Low Prevalence (6.5-9.1),30.5,21.5,20%-<25%,,,46.921925,-110.454353
+Kentucky,KY,12.3,High Prevalence (11.9-14.5),37.7,32.5,>=30%,,,37.66814,-84.670067
+Oregon,OR,8.5,Low Prevalence (6.5-9.1),30.9,20.7,20%-<25%,,,44.572021,-122.070938
+District of Columbia,DC,8.3,Low Prevalence (6.5-9.1),24.3,20.2,20%-<25%,,,38.897438,-77.026817
+Ohio,OH,10.9,Medium Prevalence (9.2-11.8),38.1,26.9,25%-<30%,,,40.388783,-82.764915
+Arkansas,AR,10.8,Medium Prevalence (9.2-11.8),37.4,31.1,>=30%,,,34.969704,-92.373123
+Washington,WA,7.9,Low Prevalence (6.5-9.1),31.7,18.4,15%-<20%,,,47.400902,-121.490494
+Puerto Rico,PR,14.4,High Prevalence (11.9-14.5),34.1,49.4,>=30%,,,#N/A,#N/A
+Wyoming,WY,7.6,Low Prevalence (6.5-9.1),34.3,23.6,20%-<25%,,,42.755966,-107.30249
+Maine,ME,8.2,Low Prevalence (6.5-9.1),33.1,24.8,20%-<25%,,,44.693947,-69.381927
+New Mexico,NM,11.9,High Prevalence (11.9-14.5),32.4,23.7,20%-<25%,,,34.840515,-106.248482
+Utah,UT,8.2,Low Prevalence (6.5-9.1),31.1,18.2,15%-<20%,,,40.150032,-111.862434
+West Virginia,WV,13.1,High Prevalence (11.9-14.5),41,30.1,>=30%,,,38.491226,-80.954453
+Kansas,KS,10,Medium Prevalence (9.2-11.8),35.7,24.8,20%-<25%,,,38.5266,-96.726486
+Nevada,NV,10.2,Medium Prevalence (9.2-11.8),33.5,26,25%-<30%,,,38.313515,-117.055374
+Mississippi,MS,13.7,High Prevalence (11.9-14.5),39.5,33.2,>=30%,,,32.741646,-89.678696
+New Hampshire,NH,7.3,Low Prevalence (6.5-9.1),30.2,21.5,20%-<25%,,,43.452492,-71.563896
+Alabama,AL,13.3,High Prevalence (11.9-14.5),38.3,30.7,>=30%,,,32.806671,-86.79113
+South Dakota,SD,9.6,Medium Prevalence (9.2-11.8),36.8,25.3,25%-<30%,,,44.299782,-99.438828
+Pennsylvania,PA,9.5,Medium Prevalence (9.2-11.8),33.4,24.7,20%-<25%,,,40.590752,-77.209755
+Oklahoma,OK,11.6,Medium Prevalence (9.2-11.8),40,30.5,>=30%,,,35.565342,-96.928917
+North Carolina,NC,11.1,Medium Prevalence (9.2-11.8),34.1,24.6,20%-<25%,,,35.630066,-79.806419
+Massachusetts,MA,7.8,Low Prevalence (6.5-9.1),27.2,23.3,20%-<25%,,,42.230171,-71.530106
+North Dakota,ND,8.8,Low Prevalence (6.5-9.1),35.4,25.6,25%-<30%,,,47.528912,-99.784012
+Delaware,DE,10,Medium Prevalence (9.2-11.8),37.9,27.2,25%-<30%,,,39.318523,-75.507141
+Colorado,CO,6.5,Low Prevalence (6.5-9.1),25,17.7,15%-<20%,,,39.059811,-105.311104
+South Carolina,SC,11.9,High Prevalence (11.9-14.5),35,27.6,25%-<30%,,,33.856892,-80.945007
+Hawaii,HI,8.1,Low Prevalence (6.5-9.1),25.9,21.7,20%-<25%,,,21.094318,-157.498337
+Vermont,VT,7.1,Low Prevalence (6.5-9.1),26.8,19.6,15%-<20%,,,44.045876,-72.710686
+Rhode Island,RI,9.1,Low Prevalence (6.5-9.1),30.8,25.3,25%-<30%,,,41.680893,-71.51178
+Indiana,IN,10.8,Medium Prevalence (9.2-11.8),37.7,28.5,25%-<30%,,,39.849426,-86.258278
+New Jersey,NJ,8.7,Low Prevalence (6.5-9.1),29.1,No data,No data,,,40.298904,-74.521011
+Arizona,AZ,9.7,Medium Prevalence (9.2-11.8),33.2,23.3,20%-<25%,,,33.729759,-111.431221
+Nebraska,NE,8.6,Low Prevalence (6.5-9.1),35.3,24.3,20%-<25%,,,41.12537,-98.268082
+,,,,,,,,,,
+,,,,,17.7,,,,,
+,,,,,49.4,,,,,
